@@ -35,6 +35,13 @@ console.log(schoolName);
 
 
 // TODO 5: Create three valid camelCase variables and print them
+let firstName = "John"
+let accountBalance = 5000.75
+let isStudent = True
+
+console.log(firstName)
+console.log(accountBalance)
+console.log(isStudent)
 
 
 // 🚀 Stretch Goals (optional)
