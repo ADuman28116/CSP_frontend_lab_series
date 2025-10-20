@@ -8,6 +8,13 @@ console.log("Alec");
 
 
 // TODO 2: Declare variable favoriteFood, assign "Steak", then reassign "Pizza"
+let favoriteFood; 
+ 
+favoriteFood = "Steak"; 
+console.log(favoriteFood);  
+ 
+favoriteFood = "Pizza"; 
+console.log(favoriteFood); 
 
 
 // TODO 3: Create variable mystery, assign a string, then a number, print type each time
