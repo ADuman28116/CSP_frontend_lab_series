@@ -18,9 +18,20 @@ console.log(favoriteFood);
 
 
 // TODO 3: Create variable mystery, assign a string, then a number, print type each time
+let mystery;
 
+mystery = "Basketball"
+console.log(mystery);
+
+mystery = 50;
+console.log(mystery);
 
 // TODO 4: Declare const schoolName, try to reassign
+const schoolName = "St. Brendan"
+console.log(schoolName); 
+
+schoolName = "Columbus"
+console.log(schoolName); 
 
 
 // TODO 5: Create three valid camelCase variables and print them
