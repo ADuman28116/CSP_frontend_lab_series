@@ -8,44 +8,35 @@ console.log("Alec");
 
 
 // TODO 2: Declare variable favoriteFood, assign "Steak", then reassign "Pizza"
-let favoriteFood; 
- 
-favoriteFood = "Steak"; 
-console.log(favoriteFood);  
- 
-favoriteFood = "Pizza"; 
-console.log(favoriteFood); 
-
+let favoriteFood = "Steak"; 
+ favoriteFood = "Pizza"; 
 
 // TODO 3: Create variable mystery, assign a string, then a number, print type each time
-let mystery;
+let mystery = "Anna";
+console.log("Value: " + mystery + " TypeOf: " + typeof mystery);
 
-mystery = "Basketball"
-console.log(mystery);
-
-mystery = 50;
-console.log(mystery);
+mystery = 1;
+console.log("Value: " + mystery + " TypeOf: " + typeof mystery);
 
 // TODO 4: Declare const schoolName, try to reassign
-const schoolName = "Columbus"
-console.log(schoolName); 
+const schoolName = "Christopher Columbus High School"
+console.log("I attend: " + schoolName); 
 
 
 
 // TODO 5: Create three valid camelCase variables and print them
-let firstName = "John"
-let accountBalance = 5000.75
-let isStudent = "True"
+let sixSeven;
+let skyColor;
+let accountBalance;
 
-console.log(firstName)
-console.log(accountBalance)
-console.log(isStudent)
 
 
 // 🚀 Stretch Goals (optional)
 // - Create a variable age and print "I am X years old" using concatenation
 // - Repeat using template literals
-
+let age = 21;
+console.log("I am " + age + "years old"); // Concatenation
+console.log('I am  $(age) years old');  
 /* ===========================================================
    🎟 EXIT TICKET
    1. What new concept or skill did you learn in this lab?
