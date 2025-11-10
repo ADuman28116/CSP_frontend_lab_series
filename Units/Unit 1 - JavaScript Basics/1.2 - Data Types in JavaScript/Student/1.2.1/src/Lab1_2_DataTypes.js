@@ -15,7 +15,7 @@ let result = "Sandra" / 2;
 console.log("Result: " / 2 " TypeOf: " / typeof result);
 
 // TODO 2: Print basic math ops: + - * /
-console.log("Basic math ops: " + - * / " TypeOf: " + - * / typeof basic math ops);
+console.log("Basic math ops: " + - * / " TypeOf: " + - * / typeof: "basic math ops");
 
 
 // TODO 2b: Use exponentiation (2 ** 3) and modulo (7 % 2)
@@ -24,12 +24,14 @@ console.log(2**3);
 console.log(7 % 2);
 
 // TODO 3: Assignment operators with score variable
-score = 100
-console.log("Assign the value 100 to the variable score")
+let score = 100
+console.log(score)
+score = 67
+console.log(score)
 
 // TODO 4: Expressions with operator precedence
-let result = ((7 + 5) / 3) - 8; 
-console.log(result);
+let operator = ((7 + 5) / 3) - 8; 
+console.log(operator);
 
 ((7 + 5) / 3) - 8
 12/3 - 8
