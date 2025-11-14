@@ -9,3 +9,13 @@
 //     console.log("You received a B")
 // }
 
+// // Temperature Guide
+// let tempF = Number(prompt("Enter temperature in F"))
+
+// if(tempF > 90) {
+//     alert("too hot")
+// } else if (tempF < 60) {
+//     alert ("too cold")
+// } else {
+//     alert ("Just Right!")
+// }
