@@ -15,19 +15,20 @@ let result = "Sandra" / 2;
 console.log("Result: " / 2 " TypeOf: " / typeof result);
 
 // TODO 2: Print basic math ops: + - * /
-console.log("Basic math ops: " + - * / " TypeOf: " + - * / typeof: "basic math ops");
+console.log("6 + 7", 6 + 7)
+console.log("6 - 7", 6  7)
+console.log("6 * 7", 6 * 7)
+console.log("6 / 7", 6 / 7)
 
 
 // TODO 2b: Use exponentiation (2 ** 3) and modulo (7 % 2)
-console.log(2**3);
-
-console.log(7 % 2);
+console.log("6 ** 7", 6 ** 7)
+console.log("7 % 6", 7 % 6)
 
 // TODO 3: Assignment operators with score variable
-let score = 100
+let score = 10
 console.log(score)
-score = 67
-console.log(score)
+
 
 // TODO 4: Expressions with operator precedence
 let operator = ((7 + 5) / 3) - 8; 
@@ -39,9 +40,9 @@ console.log(operator);
 -4
 
 // TODO 5: Strings (single, double, backticks)
-let single = "Hello World!";
-let double = "Hello World!";
-let backticks = "Hello World!";
+console.log("Matthew");
+console.log('Matthew');
+console.log(`Matthew`);
 
 // TODO 6: String properties and methods
 // - greeting.length
@@ -49,6 +50,8 @@ let backticks = "Hello World!";
 // - indexOf("sad")
 // - repeat()
 // - substring, substr, slice examples
+
+
 
 let greeting = "Hello World!";
 console.log(greeting.length); // Output: 12
