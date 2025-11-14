@@ -40,23 +40,9 @@ console.log('I am  $(age) years old');
 /* ===========================================================
    🎟 EXIT TICKET
    1. What new concept or skill did you learn in this lab?
-   
-
-   In this lab, I learned the concept of console.log and the concept of "let".
-
-
+   2. How did you apply logic or conditionals in your code?
    3. What challenges did you encounter, and how did you solve them?
-
-
-   One challenge I encountered was getting my conditionals to work correctly, sometimes the logic didn’t produce the expected results. To solve this, I used print statements to trace the flow of the program and check the values of variables at different points.
-
-
    4. Where else could this programming concept be useful?
-
-
-   This programming concept can be useful in other situations where a program needs to make decisions or react to different inputs. For example, conditionals can be used in games to determine what happens when a player wins or loses.
-
-
    =========================================================== */
 
 
